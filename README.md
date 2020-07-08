@@ -78,5 +78,5 @@ MySQL Queries — Select and insert records from/in our database table.
  
     navigate to http://localhost:5000/ 
     
-    <img src="https://user-images.githubusercontent.com/41354913/86906909-df2c4480-c131-11ea-827f-4b7aadcad127.PNG" width="90%"></img> 
+ <img src="https://user-images.githubusercontent.com/41354913/86906909-df2c4480-c131-11ea-827f-4b7aadcad127.PNG" width="90%"></img> 
     
