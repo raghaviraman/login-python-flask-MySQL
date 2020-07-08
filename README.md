@@ -1,4 +1,4 @@
-# login-python-flask-sql
+# login-Python-Flask-MySQL
 Login module in web-application using Python, Flask and MySQL
 
 ## Project includes
@@ -43,7 +43,7 @@ MySQL Queries — Select and insert records from/in our database table.
         
 ## File Structure
   
-     \-- login-python-flask-sql-master
+     \-- login-python-flask-MySQL-master
             \-- static
                     |-- style.css
             \-- templates
