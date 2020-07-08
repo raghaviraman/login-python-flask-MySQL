@@ -66,7 +66,7 @@ MySQL Queries — Select and insert records from/in our database table.
             
     4. Commands to  run the code: 
     
-             set FLASK_APP=main.py
+             set FLASK_APP=app.py
                     
              set FLASK_DEBUG=1
     
@@ -77,3 +77,5 @@ MySQL Queries — Select and insert records from/in our database table.
  ## To test that it is working correctly
  
     navigate to http://localhost:5000/ 
+    
+    
