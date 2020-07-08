@@ -78,5 +78,5 @@ MySQL Queries — Select and insert records from/in our database table.
  
     navigate to http://localhost:5000/ 
     
-    ![snapshot](https://github.com/raghaviraman/login-python-flask-MySQL/master/snapshot.png?raw=true)
+    ![snapshot](https://github.com/raghaviraman/login-python-flask-MySQL/blob/master/snapshot.PNG)
     
