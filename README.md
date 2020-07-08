@@ -58,7 +58,17 @@ MySQL Queries — Select and insert records from/in our database table.
  
     1. Make sure your MySQL server in Xampp is up and running and Create the database "workspace"
     
-    2. Import "worskpace.sql" file in workspace db created
+             * launch Xampp and Start Apache, MySQL service 
+             
+             * Click on MySQL service action admin or navigate to http://localhost/phpmyadmin 
+             
+             * Click on the option to Create a Database and input field to enter the database name "workspace" and hit Create button.    
+    
+    2. Import "worskpace.sql" file in workspace database created
+            
+             * Select the Import tab
+             
+             * Click Browse, locate the workspace.sql file on directory and click Go
     
     3. Open Command Prompt, select the project directory with the command 
     
